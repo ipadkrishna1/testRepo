@@ -1,4 +1,8 @@
 test file
 added
+
 edited by me
 added again
+=======
+added in master
+
